@@ -5,7 +5,7 @@ import org.testng.annotations.DataProvider;
 
 public class NewTest {
   @Test(dataProvider = "dp")
-  public void f(Integer n, String s) {
+  public void for(Integer n, String s) {
   }
 
   @DataProvider
